@@ -28,4 +28,4 @@ with open(args.input_file, 'r') as infile:
                         outfile.writelines(cleaned_lines)
 
                         # Print confirmation message
-                        print(f"Cleaned CSV written to: {args.output_file}")
+                        print(f"CSV cleaned successfully -> Output: {args.output_file}")
