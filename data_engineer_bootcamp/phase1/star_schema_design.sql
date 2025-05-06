@@ -1,4 +1,4 @@
-mensions
+--dimmensions
 CREATE TABLE dim_customers (
 	    customer_id INT PRIMARY KEY,
 	    name TEXT NOT NULL,
